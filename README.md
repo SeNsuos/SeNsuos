@@ -9,6 +9,8 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat&logo=webpack)
 ![babel](https://img.shields.io/badge/babel-brightgreen?style=flat&logo=babel)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sensuos)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 SeNsuos/SeNsuos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
