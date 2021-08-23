@@ -9,6 +9,8 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat&logo=webpack)
 ![babel](https://img.shields.io/badge/babel-brightgreen?style=flat&logo=babel)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeNsuos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sensuos)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
